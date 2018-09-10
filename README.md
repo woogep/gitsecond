@@ -1,1 +1,2 @@
 # gitsecond
+THIS IS THE SECOND TEST FOR GIT
